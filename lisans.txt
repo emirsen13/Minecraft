@@ -1,0 +1,9 @@
+﻿Merhaba değerli Müşterimiz!
+NourseProject hizmetimizden ürün satın aldığın için teşekkürlerimizi iletmek isteriz.
+
+
+
+Lisansın aktif olabilmesi için lütfen makine ip adresinizi müşteri panelinden Lisanslarım kısmına girip satın
+aldığınız ürünü düzenleyerek istenilen ip kısmına yazıp kaydet tuşuna basınız.
+
+Lisans IP değiştirme linki: https://nourseproject.com/profil/lisans
